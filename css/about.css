@@ -1,0 +1,17 @@
+* {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 50px;
+  background-color: rgb(240, 214, 214);
+  color: rgb(226, 136, 136);
+}
+
+.headline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-content p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
